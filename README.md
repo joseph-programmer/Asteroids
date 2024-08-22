@@ -2,7 +2,6 @@
 
 ![AsteroidsGame](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![CMake](https://img.shields.io/badge/CMake-3.10%2B-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Introduction
 
